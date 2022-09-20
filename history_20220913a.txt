@@ -1,30 +1,45 @@
     1  VirtualBox --startvm XP
     2  quartus
-    3  chromium
-    4  uname
-    5  man uname
-    6  uname -a
-    7  clear
-    8  Chromium
-    9  firefox &
-   10  echo $0
-   11  who
-   12  whoami
-   13  pwd
-   14  pwd -a
-   15  ps
-   16  ps -aux
-   17  ps
-   18  clear
-   19  ps -aux | grep
-   20  ps -aux | grep firefox
-   21  ps -aux | grep terminal
-   22  ps -aux | grep Chromium
-   23  kill 14428
-   24  kill 3522
-   25  kill terminal
-   26  kill 3520
-   27  kill 2521
-   28  firefox
-   29  history
-   30  history > history_20220913a.txt
+    3  ls
+    4  whereis ls
+    5  whereis RTR105
+    6  ls
+    7  man ls
+    8  clear
+    9  cd /bin
+   10  ls
+   11  ping4
+   12  ed
+   13  clear
+   14  ls -l
+   15  echo $0
+   16  VirtualBox --startvm XP
+   17  ls -l
+   18  cd ..
+   19  pwd
+   20  ls
+   21  cd /..
+   22  pwd
+   23  ls
+   24  cd /home
+   25  pwd
+   26  cd bin
+   27  cd /bin
+   28  cat ls
+   29  clear
+   30  cd
+   31  pwd
+   32  /bin/ls
+   33  echo$PATH
+   34  echo $PATH
+   35  echo $path
+   36  clear
+   37  git clone https://github.com/EriksKocuncs/RTR105
+   38  ls -lt
+   39  sudo apt install cmatrix
+   40  cmatrix
+   41  clear
+   42  cd RTR105/
+   43  ls
+   44  ls -lt
+   45  history > history_20220913a.txt 

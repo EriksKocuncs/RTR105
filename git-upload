@@ -1,0 +1,6 @@
+#!/bin/bash
+git add . #komanda "uzmanāmo" mapju pievienošanai
+git config --global user.email ekocuncs@gmail.com
+git config --global user.name EriksKocuncs
+git commit -m "Class_04a"
+git push origin main
