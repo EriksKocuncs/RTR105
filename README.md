@@ -14,3 +14,5 @@ Saraksts 02:
 [] Three  
 
 ![Image](https://upload.wikimedia.org/wikipedia/en/9/92/Bowser_Stock_Art_2021.png)
+ 
+
