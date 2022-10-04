@@ -1,0 +1,53 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/EriksKocuncs/RTR105
+    4  pwd
+    5  ls -lt
+    6  cd ./RTR105/
+    7  ls -lt
+    8  nano git-upload 
+    9  cd Class_06/
+   10  ls -lt
+   11  cd
+   12  pwd
+   13  clear
+   14  cd RTR105/
+   15  mkdir Class_07
+   16  ls
+   17  history > history_20221004.txt
+   18  ls
+   19  ls -lt
+   20  cd Class_07/
+   21  nano printf_test.c
+   22  ls
+   23  gcc printf_test.c 
+   24  ls
+   25  gcc printf_test.c -o frintf_test.out
+   26  -ls
+   27  ls
+   28  rm a.out 
+   29  ls -lt
+   30  frintf_test.out = printf_test.out
+   31  ls
+   32  ./frintf_test.out 
+   33  nano printf_test.c
+   34  ls
+   35  nano printf_test.c
+   36  gcc printf_test.c -o printf_test.out
+   37  ls
+   38  rm frintf_test.out 
+   39  ls
+   40  PATH=$PATH:~/RTR105/Class_07$
+   41  printf_test.out
+   42  PATH=$PATH:~/RTR105/Class_07$/printf_test.out
+   43  ./printf_test.out 
+   44  nano scanf_test.c
+   45  gcc scanf_test.c -o scanf_test.out
+   46  ./scanf_test.out 
+   47  cd
+   48  pwdpwd
+   49  pwd
+   50  cd RTR105/
+   51  git-upload 
+   52  ls -lt
+   53  history > 20221004.txt
