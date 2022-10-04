@@ -1,0 +1,6 @@
+\n -  	Newline
+\t -  	Horizontal Tab
+\v - Vertical Tab
+\b - Backspace
+\a -  	Alert (Beep, Bell)
+\r - Carriage Return
