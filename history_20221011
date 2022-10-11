@@ -1,0 +1,24 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  cd RTR105/
+    4  mkdir Class_09
+    5  ls -lt
+    6  nano git-upload 
+    7  cd Class_09
+    8  nano char_data_type_tests.c
+    9  gcc char_data_type_tests.c 
+   10  nano char_data_type_tests.c
+   11  gcc char_data_type_tests.c 
+   12  ls
+   13  ./a.out 
+   14  nano char_data_type_tests.c
+   15  gcc char_data_type_tests.c 
+   16  ./a.out 
+   17  nano char_data_type_tests.c
+   18  gcc char_data_type_tests.c 
+   19  ./a.out 
+   20  nano char_data_type_tests.c
+   21  gcc char_data_type_tests.c 
+   22  cd
+   23  cd RTR105/
+   24  history > history_20221011
