@@ -1,0 +1,65 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/EriksKocuncs/RTR105
+    4  ls -lt
+    5  cd RTR105/
+    6  nano git-upload 
+    7  mkdir Class_10
+    8  cd Class_10
+    9  nano operations_test.c
+   10  gcc operations_test.c 
+   11  nano operations_test.c
+   12  gcc operations_test.c 
+   13  nano operations_test.c
+   14  gcc operations_test.c 
+   15  nano operations_test.c
+   16  gcc operations_test.c 
+   17  ./a.out 
+   18  nano operations_test.c
+   19  gcc operations_test.c 
+   20  nano operations_test.c
+   21  gcc operations_test.c 
+   22  nano operations_test.c
+   23  gcc operations_test.c 
+   24  nano operations_test.c
+   25  gcc operations_test.c 
+   26  ./a.out 
+   27  nano operations_test.c
+   28  gcc operations_test.c 
+   29  nano operations_test.c
+   30  gcc operations_test.c 
+   31  ./a.out 
+   32  gcc operations_test.c 
+   33  nano operations_test.c
+   34  gcc operations_test.c 
+   35  ./a.out 
+   36  nano operations_test.c
+   37  gcc operations_test.c 
+   38  ./a.out 
+   39  clear
+   40  nano operations_test.c
+   41  gcc operations_test.c 
+   42  nano operations_test.c
+   43  gcc operations_test.c 
+   44  nano operations_test.c
+   45  gcc operations_test.c 
+   46  ./a.out 
+   47  nano operations_test.c
+   48  gcc operations_test.c 
+   49  ./a.out 
+   50  nano operations_test.c
+   51  gcc operations_test.c 
+   52  nano operations_test.c
+   53  gcc operations_test.c 
+   54  ./a.out 
+   55  nano operations_test.c
+   56  gcc operations_test.c 
+   57  nano operations_test.c
+   58  gcc operations_test.c 
+   59  ./a.out 
+   60  nano operations_test.c
+   61  gcc operations_test.c 
+   62  nano operations_test.c
+   63  ./a.out 
+   64  cd ../
+   65  history > history_20221018
